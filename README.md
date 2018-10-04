@@ -44,6 +44,24 @@ Get Code - get specific command line through GitHub Desktop
 		
 Index - First Term
 ----------
+	Worksheet 6 - PE 3
+	
+	Date : 2018-10-04
+	
+	-Question 1
+	
+		-Q1.pas
+
+
+
+	Worksheet 5 - PE 2
+	
+	-Question 1
+		
+		-Q1.pas
+		
+
+
 	Worksheet 4 - PE1
 	
 	Date : 2018-09-26
